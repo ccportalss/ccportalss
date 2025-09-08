@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__server-sequential-thinking__sequentialthinking",
+      "Bash(del \"C:\\Users\\sangh\\DOCTORCHATBOT\\src\\index.html\")",
+      "Bash(npm run type-check:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "context7-mcp",
+    "playwright-mcp",
+    "server-sequential-thinking"
+  ]
+}
