@@ -30,9 +30,10 @@ dist-ssr
 .env.test.local
 .env.production.local
 .env.example
+
+# MCP and Claude configuration files
 .mcp.json
 .claude
 
 # API Keys (보안을 위해 반드시 제외)
 .env*
-!.env.example
