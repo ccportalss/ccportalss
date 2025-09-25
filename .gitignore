@@ -29,6 +29,9 @@ dist-ssr
 .env.development.local
 .env.test.local
 .env.production.local
+.env.example
+.mcp.json
+.claude
 
 # API Keys (보안을 위해 반드시 제외)
 .env*
